@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>timg.png</file>
+        <file>timing.png</file>
+        <file>water.png</file>
+        <file>wet.png</file>
+        <file>wind_direction.png</file>
+        <file>wind_speed.png</file>
+        <file>sun.png</file>
+        <file>tim.png</file>
+        <file>rain.png</file>
+        <file>pump.png</file>
+        <file>refresh.png</file>
+        <file>set.png</file>
+        <file>set_bg_area.png</file>
+        <file>phone.png</file>
+        <file>password.png</file>
+        <file>mrp.png</file>
+        <file>manual.png</file>
+        <file>manager.png</file>
+        <file>light.png</file>
+        <file>garden.png</file>
+        <file>forget_pswd.jpg</file>
+        <file>exit.png</file>
+        <file>delete.png</file>
+        <file>bg_image_white.jpg</file>
+        <file>all_set.png</file>
+        <file>add.png</file>
+    </qresource>
+</RCC>
